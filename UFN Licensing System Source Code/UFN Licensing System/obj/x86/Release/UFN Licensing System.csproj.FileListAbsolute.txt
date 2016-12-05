@@ -1,0 +1,3 @@
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\bin\Release\UFN Licensing System.exe.config
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Release\Interop.SpeechLib.dll
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Release\UFN Licensing System.csproj.ResolveComReference.cache

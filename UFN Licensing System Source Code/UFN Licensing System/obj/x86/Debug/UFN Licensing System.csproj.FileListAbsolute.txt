@@ -1,0 +1,78 @@
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_login.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_redeemcode.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_register.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_splash.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.Properties.Resources.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_welcome.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_forgotpwd.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_waiting.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\Interop.SpeechLib.dll
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csproj.ResolveComReference.cache
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\bin\Debug\UFN Licensing System.exe.config
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csproj.ResolveComReference.cache
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.exe
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.pdb
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\bin\Debug\UFN Licensing System.exe
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\bin\Debug\UFN Licensing System.pdb
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csprojResolveAssemblyReference.cache
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_forgotpwd.resources
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_login.resources
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_redeemcode.resources
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_register.resources
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_splash.resources
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.Properties.Resources.resources
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_waiting.resources
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_welcome.resources
+C:\Users\Waffles\Desktop\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csproj.GenerateResource.Cache
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\bin\Debug\UFN Licensing System.exe.config
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csproj.ResolveComReference.cache
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.exe
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.pdb
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\bin\Debug\UFN Licensing System.exe
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\bin\Debug\UFN Licensing System.pdb
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csprojResolveAssemblyReference.cache
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_forgotpwd.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_login.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_redeemcode.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_register.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_splash.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.Properties.Resources.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_waiting.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_welcome.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csproj.GenerateResource.Cache
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_news.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_changeaccdetails.resources
+C:\Users\Waffles\Desktop\Applications\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_forgotuid.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_changeaccdetails.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_forgotuid.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_news.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csproj.GenerateResource.Cache
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csproj.ResolveComReference.cache
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_changeaccdetails.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_forgotpwd.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_forgotuid.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_login.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_news.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_redeemcode.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_register.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_splash.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.Properties.Resources.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_waiting.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN_Licensing_System.ufnls_welcome.resources
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csproj.GenerateResource.Cache
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\Game.Game.resources
+D:\UFN Licensing System\UFN Licensing System\bin\Debug\FlappyBox.exe.config
+D:\UFN Licensing System\UFN Licensing System\bin\Debug\FlappyBox.exe
+D:\UFN Licensing System\UFN Licensing System\bin\Debug\FlappyBox.pdb
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\UFN Licensing System.csprojResolveAssemblyReference.cache
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\Game.Game.resources
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\FlappyBox.exe
+D:\UFN Licensing System\UFN Licensing System\obj\x86\Debug\FlappyBox.pdb
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\bin\Debug\FlappyBox.exe.config
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\FlappyBox.exe
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\obj\x86\Debug\FlappyBox.pdb
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\bin\Debug\FlappyBox.exe
+C:\Users\Waffles\Google Drive\Digital Rights Management System Source Code\UFN Licensing System\bin\Debug\FlappyBox.pdb
